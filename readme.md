@@ -1,3 +1,3 @@
-# readme.md
+# MCP Security Gateway
 
-Created via MCP Security Gateway.
+All operations are authenticated, analyzed, and governed by the MCP Security Gateway.
